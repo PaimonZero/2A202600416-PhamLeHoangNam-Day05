@@ -7,7 +7,7 @@
 
 ## PHẦN 1 — KHÁM PHÁ (EXPLORATION)
 
-### 1. Marketing vs. Lời hứa thương hiệu
+### 1. Marketing
 
 - **Kênh tiếp cận:** Website MoMo, thông báo đẩy (push notifications), và mục "Quản lý chi tiêu" trong app.
 - **Lời hứa:** MoMo quảng bá Moni là một "Trợ thủ tài chính" có khả năng:
@@ -34,7 +34,7 @@
 | **3. Khi AI sai**        | **Thất bại**   | **Ví dụ:** Chuyển tiền trả nợ cho bạn nhưng AI lại tính vào "Mua sắm". **Cách sửa:** User phải nhấn vào giao dịch -> Chọn "Sửa loại chi tiêu" -> Tìm trong danh sách 20+ danh mục. Quá trình này tốn 4-5 bước chạm.   |
 | **4. Khi user mất tin**  | **Lối thoát**  | User có thể tắt tính năng Moni trong cài đặt hoặc xóa hoàn toàn lịch sử chat. Có fallback là nút "Liên hệ tổng đài", nhưng Moni thường cố giữ user ở lại bằng các câu trả lời mẫu thay vì kết nối ngay với nhân viên. |
 
-### Nhận xét chuyên sâu:
+### Nhận xét:
 
 - **Path xử lý tốt nhất:** **Path 1.** Tốc độ xử lý realtime và khả năng nhận diện các merchant lớn (Grab, Shopee, Highland) rất ấn tượng.
 - **Path yếu nhất:** **Path 3.** Đây là "điểm gãy" lớn nhất. AI sai là chuyện bình thường, nhưng cách MoMo bắt người dùng đi "dọn rác" cho AI bằng quy trình thủ công phức tạp làm giảm giá trị của từ "Trợ thủ".
